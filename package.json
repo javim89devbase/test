@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/javim89devbase/test/issues"
   },
-  "homepage": "https://github.com/javim89devbase/test#readme"
+  "homepage": "https://github.com/javim89devbase/test#readme",
+  "publishConfig": {
+    "@javim89devbase:registry": "https://npm.pkg.github.com"
+  }
 }
